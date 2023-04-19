@@ -1,0 +1,15 @@
+C 0,120,200
+NO texture/herisson_trop_bg.xpm
+WE texture/cobblestone.xpm
+
+
+EA texture/wall_test.xpm
+SO texture/cobbled_deepslate.xpm
+
+
+F 75,150,50
+111
+ 101
+1N01
+ 101
+  1
